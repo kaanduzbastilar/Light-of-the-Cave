@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/70735387/206920020-630bf435-cc02-4f1b-84ec-05499992d403.png" alt="Petrol Otomasyonu - Fuel Automation" width="200px">
     <div>
         <h1>Petrol Otomasyonu - Fuel Automation</h1>
