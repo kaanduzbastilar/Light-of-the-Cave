@@ -1,6 +1,6 @@
 # Light of the Cave
 
-![Light of the Cave](https://ggj.s3.amazonaws.com/styles/game_sidebar__normal/featured_image/2020/02/227341/ana_0.png?itok=WRRXl1aW&timestamp=1580651939)
+![Light of the Cave](https://github.com/kaanduzbastilar/Light-of-the-Cave/assets/70735387/0a2b0fb7-0c12-4841-a456-adcecb8028d0)
 
 ## About
 The game is a platform game of an adventurer. Our character in the cave tries to find 4 stones to repair the scale of his universe. Each mineral illuminates a scope of light for the character to find his path. The colors represent different themes and dynamics to set the mood of the game. The character will use each stone to his advantage and conclude his journey.
@@ -44,7 +44,7 @@ To play the game, open the "light of the cave" folder, then open the "release" f
 - Strategy
 
 ## Team
-![We!](https://ggj.s3.amazonaws.com/styles/game_sidebar__normal/team_picture/2020/02/227341/we_0.png?itok=KYHBZ0kp&timestamp=1580651939)
+![We!](https://github.com/kaanduzbastilar/Light-of-the-Cave/assets/70735387/f0a11d73-0327-4bd0-8f9f-0884c2e115ce)
 
 ### Team Members
 - [altaykrl](https://globalgamejam.org/users/altaykrl)
@@ -55,8 +55,8 @@ To play the game, open the "light of the cave" folder, then open the "release" f
 - [Metehan Şener](https://globalgamejam.org/users/metehan-sener)
 
 ## Game Stills
-![In Game Screenshots](https://ggj.s3.amazonaws.com/styles/game_content__normal/games/screenshots/2020/02/227341/gameplay_0.png?itok=njjTxfYj&timestamp=1580651939)
-![How to play](https://ggj.s3.amazonaws.com/styles/game_content__normal/games/screenshots/2020/02/227341/giris_0.png?itok=x8U1X3-P&timestamp=1580651939)
+![In Game Screenshots](https://github.com/kaanduzbastilar/Light-of-the-Cave/assets/70735387/dcb145b4-99ae-4793-917d-cf7a63cba123)
+![How to play](https://github.com/kaanduzbastilar/Light-of-the-Cave/assets/70735387/63eebedc-5924-49be-bebd-cf63e58f9b9c)
 
 ## Executable
 - [Light of the Cave.zip](https://ggj.s3.amazonaws.com/games/2020/02/227341/exec/bn8hQ/Light%20of%20the%20Cave.zip)
